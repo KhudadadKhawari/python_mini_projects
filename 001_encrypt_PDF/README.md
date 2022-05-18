@@ -27,15 +27,15 @@ Now an executable must have been created in current location inside **dest** fol
 1. ***Main Screen***:
 <br>
 
-    ![Main Screen image](screenshots/1.png)
+    ![Main Screen image](https://github.com/KhudadadKhawari/python_mini_projects/blob/main/001_encrypt_PDF/screenshots/1.png)
 2. After Opening a PDF file using **Open File** Button:
 <br>
 
-    ![File Opened image](screenshots/2.png)
+    ![File Opened image](https://github.com/KhudadadKhawari/python_mini_projects/blob/main/001_encrypt_PDF/screenshots/2.png)
 
 3. ***Successfull Encryption***
 <br>
 
-    ![Successfull Encryption Image](screenshots/3.png)
+    ![Successfull Encryption Image](https://github.com/KhudadadKhawari/python_mini_projects/blob/main/001_encrypt_PDF/screenshots/3.png)
 
 ### Developed by: [**Khudadad Khawari**](https://facebook.com/KhudadadKhawari.py)

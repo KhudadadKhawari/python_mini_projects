@@ -5,4 +5,4 @@
 
 ## List of Mini projects in this Repo
 1. [**Encrypt PDF With Python**](https://github.com/KhudadadKhawari/python_mini_projects/tree/main/001_encrypt_PDF)
-2. [**YouTube Video(s) Downloader**] (https://github.com/KhudadadKhawari/python_mini_projects/tree/main/002_YouTube_Downloader)
+2. [**YouTube Video(s) Downloader**](https://github.com/KhudadadKhawari/python_mini_projects/tree/main/002_YouTube_Downloader)
